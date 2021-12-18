@@ -76,7 +76,7 @@ If you would like recover the password you must click on the link below the logi
 
 If you log in with the owner user id and password, you will be able to manage the bookstore, books, users, accounts, etc.
 
-![](Images/password_recovery.png)
+![](Images/owner_page.PNG)
 
 ## Performing Operations on the _OWNER_ account
 
@@ -91,11 +91,17 @@ The following screenshots show some examples.
 ### List the available books
 ![](Images/books_lists.PNG)
 
+### Add a new book
+![](Images/add_new_book.PNG)
 
+### Edit an existing book
+![](Images/edit_book.PNG)
 
+### Order History on books
+![](Images/book_history.PNG)
 
 ## Bonus Operations: Search and Filter
-the following screenshot shows how to perform a filter on some specific data (Title of a book).
+The following screenshot shows how to perform a filter on some specific data (Title of a book).
 
 ![](Images/filter_title.PNG)
 
