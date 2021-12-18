@@ -7,10 +7,17 @@ unzip MOVAMP (movamp.zip), you will find the following:
 •	movamp application (double click once on the icon)
 You will see two screens, one for the Apache HTTP server and one for the SQL server (as follows). Click on “Allow Access” for both.
 
-## Click on Allow Access on the ApacheHTTP Server Dialog
-<img src="Images/ApacheServer_Access.png" width = "400" class="center">
-
+## Click on Allow Access on the Apache HTTP Server Dialog
 ![](Images/ApacheServer_Access.png)
 
 ## Click on Allow Access on the mysql Server Dialog
 ![](Images/SqlServer_Access.png)
+
+# Creation of the database:
+## Step 1: Running a PHPMYADMIN
+●	Open a web browser such as Chrome
+●	Execute a URL ( http://localhost/phpmyadmin) to open the PHPMYADMIN application
+
+●	Username: root
+●	Password: (empty)
+●	Click on GO
