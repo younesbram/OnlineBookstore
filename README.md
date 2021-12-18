@@ -3,7 +3,7 @@ This application lets users browse a collection of books that are available in t
 
 # Installation environment
 unzip MOVAMP (movamp.zip) on your local drive, you will find the following: 
--	mnt folder
+-	**mnt** folder
 -	movamp application ![](Images/movamp_logo.PNG) (double click once on the icon)
 
 You will see two screens, one for the Apache HTTP server and one for the SQL server (as follows). Click on “Allow Access” for both.
@@ -110,6 +110,9 @@ The figure below shows an extract of the books list.
 
 ### List of Books with Authors
 ![](Images/book_authors.png)
+
+### List of Publishers
+![](Images/publishers_list.PNG)
 
 ## Bonus Operations: Search and Filter
 The following screenshot shows how to perform a filter on some specific data (Title of a book).
