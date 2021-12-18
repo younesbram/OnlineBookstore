@@ -8,6 +8,8 @@ unzip MOVAMP (movamp.zip), you will find the following:
 You will see two screens, one for the Apache HTTP server and one for the SQL server (as follows). Click on “Allow Access” for both.
 
 ## Click on Allow Access on the ApacheHTTP Server Dialog
+<img src="Images/ApacheServer_Access.png" width = "400" class="center">
+
 ![](Images/ApacheServer_Access.png)
 
 ## Click on Allow Access on the mysql Server Dialog
