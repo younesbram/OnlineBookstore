@@ -127,7 +127,7 @@ The following screenshot shows how to perform the search on a certain criteria.
 
 ![](Images/owner_search.png)
 
-![](Images/owner_search_list.png)
+![](Images/publishers_list.PNG)
 
 
 
