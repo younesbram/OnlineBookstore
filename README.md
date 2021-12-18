@@ -127,6 +127,9 @@ The following screenshot shows how to perform the search on a certain criteria.
 
 ![](Images/owner_search.png)
 
+
+The following screenshot shows the results after searching for a specific name of publisher.
+
 ![](Images/publisher_after_search.PNG)
 
 
