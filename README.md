@@ -59,10 +59,16 @@ To access to the application login with the username and password. We have 3 rol
 
 ### Login dialog 
 The following Login dialog is shown:
-![](Images/login_dialog.PNG)
+![](Images/login_dialog.png)
 
 ### Creation of a new account: 
-The following Registration dialog is shown when you click on Registration Link (on the above dialog for new accounts):
-![](Images/registration_dialog.PNG)
+The following Registration dialog is shown when you click on _"Register Here"_ (on the above dialog for new accounts):
+![](Images/registration_dialog.png)
 
-The following Registraion dialog is shown when you click on the Registration link (to create a:
+### Password Recovery:
+If you would like recover the password you must click on the link below the login form.
+![](Images/password_recovery.png)
+
+## Managing the Bookstore through the _OWNER_ account
+
+If you log in with the owner user id and password, you will be able to manage the bookstore, books, users, accounts, etc.
