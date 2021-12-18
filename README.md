@@ -7,4 +7,8 @@ unzip MOVAMP (movamp.zip), you will find the following:
 •	movamp application (double click once on the icon)
 You will see two screens, one for the Apache HTTP server and one for the SQL server (as follows). Click on “Allow Access” for both.
 
+## Click on Allow Access on the Apache Server Dialog
 ![](Images/ApacheServer_Access.png)
+
+## Click on Allow Access on the SQL Server Dialog
+![](Images/SQLServer_Access.png)
