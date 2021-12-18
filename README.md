@@ -103,7 +103,7 @@ The figure below shows an extract of the books list.
 ![](Images/book_history.png)
 
 ### Genres of books
-![](Images/genre_list.png)
+![](Images/genres_list.png)
 
 ### List of Authors
 ![](Images/authors_list.png)
