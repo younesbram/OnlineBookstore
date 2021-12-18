@@ -78,5 +78,22 @@ If you log in with the owner user id and password, you will be able to manage th
 
 ![](Images/password_recovery.png)
 
+## Performing Operations on the _OWNER_ account
+
+Some actions can be performed on list of items as adding a new record, refresh the list, export the list, print a report, or deleting the selected items you must go to the top right position on the list.
+
+The following screenshots show some examples
+
+![](Images/password_recovery.png)
+
+## Bonus Operations: Search and Filter
+The following screenshot shows how to perform the search on a certain book title
+
+![](Images/password_recovery.png)
+
+the following screenshot shows how to perform a filter on some specific data
+
+![](Images/password_recovery.png)
+
 
 
