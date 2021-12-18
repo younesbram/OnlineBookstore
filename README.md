@@ -22,10 +22,11 @@ You will see two screens, one for the Apache HTTP server and one for the SQL ser
 1.  Use the following credentials and then click on GO
 -	Username: root
 -	Password: (empty)
--
+
 ## Step 1: DB creation and import of the DB Schema on phpMyAdmin
 1. Create a new database named **bookstore** (choose utf8_unicode_ci)
 1. Go to the tab _Import_ and choose a file that contains the database DDL and click on the button (Go) (**DDL.sql**). 
 1. Go to the tab _Import_ and choose a file that contains the database data and click on the button (Go) ( **Data.sql**).
 
+- Now we have 15 tables installed on the MySQL server.
 
