@@ -58,7 +58,7 @@ To access to the application login with the username and password. We have 3 rol
 3. User:  (uid: _user1_;  pwd:_user1_)
 
 ### Login dialog 
-The following Login dialog is shown:
+The following Login dialog is shown: (enter your credentials as listed above)
 
 ![](Images/login_dialog.png)
 
@@ -82,18 +82,32 @@ If you log in with the owner user id and password, you will be able to manage th
 
 Some actions can be performed on list of items as adding a new record, refresh the list, export the list, print a report, or deleting the selected items you must go to the top right position on the list.
 
-The following screenshots show some examples
+The following screenshots show some examples.
 
-![](Images/password_recovery.png)
+### Owner Operations
+
+![](Images/onwer_operation.PNG)
+
+### List the available books
+![](Images/books_lists.PNG)
+
+
+
 
 ## Bonus Operations: Search and Filter
-The following screenshot shows how to perform the search on a certain book title
+the following screenshot shows how to perform a filter on some specific data (Title of a book).
 
-![](Images/password_recovery.png)
+![](Images/filter_title.PNG)
 
-the following screenshot shows how to perform a filter on some specific data
+The following shows the results after applying the filter.
 
-![](Images/password_recovery.png)
+![](Images/books_lists_filter.PNG)
+
+The following screenshot shows how to perform the search on a certain criteria
+
+![](Images/owner_search.PNG)
+
+![](Images/owner_search_list.PNG)
 
 
 
