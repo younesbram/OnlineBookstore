@@ -89,13 +89,15 @@ The following screenshots show some examples.
 ![](Images/onwer_operation.png)
 
 ### List the available books
+The figure below shows an extract of the books list.
+
 ![](Images/books_lists.PNG)
 
 ### Add a new book
-![](Images/add_new_book.PNG)
+![](Images/add_new_book.png)
 
 ### Edit an existing book
-![](Images/edit_book.PNG)
+![](Images/edit_book.png)
 
 ### Order History on books
 ![](Images/book_history.png)
