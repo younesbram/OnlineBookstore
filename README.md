@@ -10,5 +10,5 @@ You will see two screens, one for the Apache HTTP server and one for the SQL ser
 ## Click on Allow Access on the Apache Server Dialog
 ![](Images/ApacheServer_Access.png)
 
-## Click on Allow Access on the SQL Server Dialog
-![](Images/SQLServer_Access.png)
+## Click on Allow Access on the mysql Server Dialog
+![](Images/SqlServer_Access.png)
