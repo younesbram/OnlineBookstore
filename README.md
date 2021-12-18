@@ -84,7 +84,7 @@ Some actions can be performed on list of items as adding a new record, refresh t
 
 The following screenshots show some examples.
 
-### Owner Operations
+### Examples of Operations
 
 ![](Images/onwer_operation.png)
 
@@ -101,6 +101,15 @@ The figure below shows an extract of the books list.
 
 ### Order History on books
 ![](Images/book_history.png)
+
+### Genres of books
+![](Images/genre_list.png)
+
+### List of Authors
+![](Images/authors_list.png)
+
+### List of Books with Authors
+![](Images/book_authors.png)
 
 ## Bonus Operations: Search and Filter
 The following screenshot shows how to perform a filter on some specific data (Title of a book).
